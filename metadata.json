@@ -1,0 +1,6 @@
+{
+  "name": "PCC-BIMA ERP & Cost Control Dashboard",
+  "description": "Mine productivity, weather-impact logs, and automated profit & loss reporting system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
